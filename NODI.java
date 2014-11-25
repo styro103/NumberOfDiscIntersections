@@ -3,8 +3,7 @@
  * Number of Disc Intersections
  * This program finds the number of discs that intersect given the number of discs, their locations,
  * 	and their radii.
- * It has two solutions. One with a run time of O(N), and the other with a best and 
- * 		average case run time of O(N+M), and a worst case of O(N*log(N)).
+ * It has two solutions. One with a run time of O(N), and the other O(N*log(N)).
  */
 
 import java.util.Scanner;
